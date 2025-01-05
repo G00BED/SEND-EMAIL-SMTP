@@ -31,7 +31,7 @@ message = "Test"
 smtp_server = "smtp.gmail.com"
 smtp_port = 587
 login = "goob.robot@gmail.com"
-password = "wnwj otjy qoqb ynrf"
+password = "PASSWORD"
 
 #Call the function
 send_email(from_email, to_email, subject, message, smtp_server, smtp_port, login, password)
